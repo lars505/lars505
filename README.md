@@ -1,4 +1,3 @@
-## Personaliza tu pantalla de presentación de Github
 
 ### Badges
 
