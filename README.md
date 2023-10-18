@@ -56,7 +56,7 @@ Text         4 mins          ░░░░░░░░░░░░░░░░░
 
 ### Iconos & badgets sociales
 
-<p>Instagram <a href="https://www.instagram.com/lars_505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Angel Larios" height="30" width="40" /></a>
+<p>Instagram <a href="https://www.instagram.com/lars_505" target="blank"><img align="center" src="https://raw.githubusercontent.com/lars505/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Angel Larios" height="30" width="40" /></a>
 </p>
 
 <p>
