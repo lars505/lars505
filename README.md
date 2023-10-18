@@ -37,10 +37,17 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=lars505&theme=radical&card_width=450em)](https://github.com/lars505/lars505/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lars505&theme=radical&card_width=450)](https://github.com/lars505)"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=lars505&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
+    <td valign="top">
+      <a href="https://github.com/lars505">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lars505&theme=radical&card_width=450" />
+      </a>
+    </td>
+    <td valign="top">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=lars505&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" />
+    </td>
   </tr>
 </table>
+
 
 ### Desglose del desarrollo semanal
 
