@@ -37,7 +37,7 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lars505&theme=radical&card_width=450em)](https://github.com/lars505/lars505/github-readme-stats"/></td>
+    <td valign="top"><img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=lars505&theme=radical&card_width=450em)](https://github.com/lars505/lars505/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lars505&theme=radical&card_width=450)](https://github.com/lars505)"/></td>
     <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=lars505&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
   </tr>
 </table>
@@ -56,7 +56,7 @@ Text         4 mins          ░░░░░░░░░░░░░░░░░
 
 ### Iconos & badgets sociales
 
-<p>Instagram <a href="https://www.instagram.com/lars_505" target="blank"><img align="center" src="https://raw.githubusercontent.com/lars505/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Angel Larios" height="30" width="40" /></a>
+<p>Instagram <a href="https://www.instagram.com/lars_505" target="blank"><img align="center" src="https://raw.githubusercontent.com/lars_505/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Angel Larios" height="30" width="40" /></a>
 </p>
 
 <p>
