@@ -1,4 +1,4 @@
-![Header](./lars-header-image.png)
+<img src="./lars-header-image.png" align="center" height="" width="100%" />  
 
 # Bienvenido a mi Repositorio
 
